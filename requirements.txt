@@ -1,0 +1,19 @@
+# JWST COSMOS-Web Data Analysis Workshop - Required Packages
+# ICARD-MU Workshop | November 5, 2025
+
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Astronomy packages
+astropy>=5.3.0
+astroquery>=0.4.6
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.22.0
+
+# Additional utilities
+pandas>=2.0.0
